@@ -5,11 +5,11 @@ Aplicación de lista de tareas simple y efectiva desarrollada utilizando tecnolo
 
 ## Características clave:
 
-*Interfaz de usuario intuitiva y fácil de usar.
-*Marca las tareas como completadas para llevar un registro.
-*Opción para eliminar tareas terminadas.
-*Diseño responsive que se adapta a diferentes dispositivos y tamaños de pantalla.
-*Personalización mediante estilos CSS personalizados.
+* Interfaz de usuario intuitiva y fácil de usar.
+* Marca las tareas como completadas para llevar un registro.
+* Opción para eliminar tareas terminadas.
+* Diseño responsive que se adapta a diferentes dispositivos y tamaños de pantalla.
+* Personalización mediante estilos CSS personalizados.
 
 <img width="497" alt="image" src="https://user-images.githubusercontent.com/89039973/235263617-dce09968-6e79-4660-a888-cb681d638d43.png">
 
